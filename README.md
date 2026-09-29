@@ -37,5 +37,11 @@ Watermark, Digital Signature, AI Chat with PDF
 - No strict limits
 - 🔗 https://pdf24.org
 
+### 6. FileOnTap (File Converter)
+- ✅ Free browser-local image/PDF conversion
+- ✅ No account, no upload — files stay on device
+- ✅ HEIC/WebP/PNG/JPG + image↔PDF
+- 🔗 https://fileontap.com/
+
 ## Contributing
 Feel free to submit a PR to add more tools!
