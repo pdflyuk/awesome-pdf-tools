@@ -37,5 +37,11 @@ Watermark, Digital Signature, AI Chat with PDF
 - No strict limits
 - 🔗 https://pdf24.org
 
+### 6. Free PDF Converter
+- Free browser-based PDF tools (merge, split, compress, convert)
+- No account required
+- Built on the open-source BentoPDF; files are processed in the browser
+- 🔗 https://free-pdf-converter.web-free.site
+
 ## Contributing
 Feel free to submit a PR to add more tools!
