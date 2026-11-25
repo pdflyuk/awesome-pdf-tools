@@ -37,5 +37,9 @@ Watermark, Digital Signature, AI Chat with PDF
 - No strict limits
 - 🔗 https://pdf24.org
 
+### 6. PDF Fan
+- [Insert pages into a PDF (Spanish)](https://pdf.fan/es/insertar-paginas-pdf/): insert selected pages from another PDF before, after, or between the original pages.
+- Free and no account required. Source files are processed in the browser. A copy of the result can be stored temporarily for download and sharing.
+
 ## Contributing
 Feel free to submit a PR to add more tools!
